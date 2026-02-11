@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: Eigener-Laptop
+  vmImage: 'Eigener-Laptop'
 
 variables:
   buildConfiguration: 'Release'
